@@ -1,0 +1,5 @@
+This project demonstrates 2 techniques of Text Summarization using Natural language Processing.
+The abstractive approach uses attention mechanisum over LSTM encoder-decoder architecture. to summarize Food reviews 
+The extractive methodology uses cosine similarity matrix and sentence ranking algorithms to summarize the text.
+    for streamlit file >> use streamlit run <filename>.py command to run the streamlit file in terminal
+
